@@ -1,4 +1,4 @@
-![Home Page](screenshot2.png)
+![Home Page](screenshot1.png)
 
 ![Game Screen](screenshot2.png)
 
